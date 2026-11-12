@@ -1,0 +1,6 @@
+{
+  "name": "Karang Nusantara: Ekspedisi Terumbu Karang",
+  "description": "Game interaktif penyelaman laut, restorasi ekosistem terumbu karang, pembersihan laut, dan ensiklopedia biota bahari Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
